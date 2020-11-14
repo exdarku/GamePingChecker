@@ -9,7 +9,6 @@ cls
 echo ========================================================
 echo Ping Checker
 echo ========================================================
-echo Only works for MINDANAO area with PLDT connection
 echo Version 1.2
 echo.
 echo Tool created by perseus/exdarku
@@ -109,10 +108,6 @@ echo Ping Checker
 echo ===========================================================
 echo Welcome to Ping Checker!
 echo.
-echo Please note that this script only works on MINDANAO.
-echo If you would like to have your city/region to be included,
-echo kindly PM me through github.
-echo.
 echo Pick a color you want the script set in.
 echo 1.) Green
 echo 2.) Red
@@ -162,3 +157,12 @@ echo.
 echo You can also press ENTER to redirect to main menu.
 timeout 3 >nul
 goto pingcheck
+
+
+
+
+
+
+
+
+
